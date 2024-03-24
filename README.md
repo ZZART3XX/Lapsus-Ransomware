@@ -33,6 +33,3 @@ The lock interface of LAPSUS$ ransomware is fully customizable. You can modify t
 
 ## Contact
 For purchasing or any inquiries, feel free to reach out to [@ZZART3XX](https://t.me/ZZART3XX).
-
-![Image 1](https://imgur.com/a/ZmfbENw)
-![Image 2](link_to_image_2)
